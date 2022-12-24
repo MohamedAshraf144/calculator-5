@@ -1,0 +1,11 @@
+C:\Users\Elnour Tech\Desktop\calculator 5\calculator 5\calculator 5\bin\Debug\calculator 5.exe.config
+C:\Users\Elnour Tech\Desktop\calculator 5\calculator 5\calculator 5\bin\Debug\calculator 5.exe
+C:\Users\Elnour Tech\Desktop\calculator 5\calculator 5\calculator 5\bin\Debug\calculator 5.pdb
+C:\Users\Elnour Tech\Desktop\calculator 5\calculator 5\calculator 5\obj\Debug\calculator 5.csproj.AssemblyReference.cache
+C:\Users\Elnour Tech\Desktop\calculator 5\calculator 5\calculator 5\obj\Debug\calculator 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elnour Tech\Desktop\calculator 5\calculator 5\calculator 5\obj\Debug\calculator_5.Form1.resources
+C:\Users\Elnour Tech\Desktop\calculator 5\calculator 5\calculator 5\obj\Debug\calculator_5.Properties.Resources.resources
+C:\Users\Elnour Tech\Desktop\calculator 5\calculator 5\calculator 5\obj\Debug\calculator 5.csproj.GenerateResource.cache
+C:\Users\Elnour Tech\Desktop\calculator 5\calculator 5\calculator 5\obj\Debug\calculator 5.csproj.CoreCompileInputs.cache
+C:\Users\Elnour Tech\Desktop\calculator 5\calculator 5\calculator 5\obj\Debug\calculator 5.exe
+C:\Users\Elnour Tech\Desktop\calculator 5\calculator 5\calculator 5\obj\Debug\calculator 5.pdb
